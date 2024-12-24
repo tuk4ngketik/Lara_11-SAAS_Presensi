@@ -1,0 +1,1 @@
+ALTER TABLE perusahaan ADD website varchar(100),   MODIFY logo_perusahaan BLOB;

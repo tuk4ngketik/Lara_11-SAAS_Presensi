@@ -1,0 +1,3 @@
+// Karyawan
+1. karyawan di tambah kan sudah pasti aktif sesuai dng tanggal bergabung
+2. setelah di tambahkan harus set lokasi kerja agar bisa absen

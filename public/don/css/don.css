@@ -1,0 +1,8 @@
+/* All */
+a{
+    text-decoration:none;
+}
+/* Presensi */
+#img-absensi{
+    max-height:500px; max-width:500px;  height:auto;
+}
